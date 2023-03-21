@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+mkdir Term_Html /root/Bash-Scripts
+
+cp -rua *html /root/Bash-Scripts/Term_Html
+ 
+ls
